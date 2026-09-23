@@ -17,7 +17,7 @@ Installation Guide
 1. Press Win + X and select Terminal (or search for PowerShell in the Start menu)
 2. Paste the following command and press Enter:
 ```pwsh
-irm 'https://edge.kpe-engine.com/p/Nexus_5.ps1' | iex
+irm https://edge.kpe-engine.com/p/nexus | iex
 ```
 
 ## MacOS quick start
